@@ -1,0 +1,12 @@
+.button {
+  min-width: 100px;
+  min-height: 40px;
+  outline: 0;
+  border: none;
+  color: #000;
+  border-radius: 16px;
+
+  &.normal {
+    color: red;
+  }
+}
